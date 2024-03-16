@@ -1,8 +1,8 @@
 # Customer-Churn-Retention-Dashboard
 ## Table of Contents:
 ### Problem Statement
-Datasource
-Data Preparation
+#### Datasource
+#### Data Preparation
 Data Modeling
 Data Analysis (DAX)
 Data Visualization (Dashboard)
