@@ -1,6 +1,6 @@
 # Customer-Churn-Retention-Dashboard
-Table of Contents:
-Problem Statement
+## Table of Contents:
+### Problem Statement
 Datasource
 Data Preparation
 Data Modeling
